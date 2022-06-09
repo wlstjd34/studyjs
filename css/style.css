@@ -1,0 +1,55 @@
+.hidden {
+    display: none;
+}
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bgimg {
+    border: 0;
+    padding: 0;
+    min-height: 100%;
+    background-position:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.maintext {
+    color: black;
+    font-size: 100px;
+    background-color: rgba(255, 255, 255, 0.3); 
+    box-sizing: content-box;
+    width: max-content;
+    max-height: min-content;
+}
+
+.clock {
+    color: beige;
+    text-align: right;
+}
+
+.formbox {
+    color: black;
+}
+
+.deletebtn {
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+.todo {
+    color: blanchedalmond;
+}
+
+.quotes {
+    color: azure;
+    vertical-align : bottom;
+}
+
+.weather {
+    color: blanchedalmond;
+    border-collapse:collapse;
+}
